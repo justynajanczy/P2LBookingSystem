@@ -1,0 +1,18 @@
+﻿@page "/AddResource"
+@inherits AddResourceBase
+
+<h3>AddResource</h3>
+
+<EditForm Model="@newResource" OnValidSubmit="@AddNewResource">
+    <DataAnnotationsValidator/>
+    <ValidationSummary/>
+    <div class="form-group">
+        Name: <InputText class="form-control" @bind-Value="newResource.Name"/>
+    </div>
+    <div class="form-group">
+        Quantity: <InputNumber class="form-control" @bind-Value="newResource.Quantity"/>
+    </div>
+    <p class="actions">
+        <button class="btn btn-outline-primary" type="submit">Create</button>
+    </p>
+</EditForm>

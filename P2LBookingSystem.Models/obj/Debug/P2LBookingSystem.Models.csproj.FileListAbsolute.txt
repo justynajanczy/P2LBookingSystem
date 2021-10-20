@@ -1,0 +1,8 @@
+C:\STUDIA\P2LBookingSystem\P2LBookingSystem.Models\bin\Debug\P2LBookingSystem.Models.dll
+C:\STUDIA\P2LBookingSystem\P2LBookingSystem.Models\bin\Debug\P2LBookingSystem.Models.pdb
+C:\STUDIA\P2LBookingSystem\P2LBookingSystem.Models\obj\Debug\P2LBookingSystem.Models.csproj.AssemblyReference.cache
+C:\STUDIA\P2LBookingSystem\P2LBookingSystem.Models\obj\Debug\P2LBookingSystem.Models.csproj.CoreCompileInputs.cache
+C:\STUDIA\P2LBookingSystem\P2LBookingSystem.Models\obj\Debug\P2LBookingSystem.Models.dll
+C:\STUDIA\P2LBookingSystem\P2LBookingSystem.Models\obj\Debug\P2LBookingSystem.Models.pdb
+C:\STUDIA\P2LBookingSystem\P2LBookingSystem.Models\bin\Debug\System.ComponentModel.Annotations.dll
+C:\STUDIA\P2LBookingSystem\P2LBookingSystem.Models\obj\Debug\P2LBookingSystem.Models.csproj.CopyComplete
